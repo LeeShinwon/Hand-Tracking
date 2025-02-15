@@ -31,6 +31,15 @@ Supports iPhone with iOS 17+ using the front camera for real-time hand pose dete
 <br>
 <br>
 
+## screen shots
+| screenshot 1 | screenshot 2 |
+|--------------|--------------|
+| ![screenshot 1](https://github.com/user-attachments/assets/70a0ddb7-bdf5-45dc-9a92-7bcf01019b51) | ![screenshot 2](https://github.com/user-attachments/assets/1e054b7d-9bb1-4653-9e32-707dfdb561f7)|
+
+
+<br>
+<br>
+
 ## How to Build & Run
 ### Requirements
 - Xcode 15+
